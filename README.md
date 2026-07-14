@@ -3,4 +3,4 @@ Production-grade Financial Document Intelligence Platform |  RAG + LangGraph Age
 
 ## Architecture
 
-![FinSight Architecture](assets/architecture.png)
+![FinSight Architecture](assets/assetsarchitecture.png)
